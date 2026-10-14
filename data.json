@@ -1,0 +1,2737 @@
+{
+  "year": 2026,
+  "question_count": 270,
+  "language": "hi,en",
+  "coverage": "selected topics, not exhaustive",
+  "months": [
+    {
+      "month": "जनवरी / January",
+      "events": [
+        {
+          "title": "गणतंत्र दिवस 2026",
+          "note": "मुख्य अतिथियों के पद अलग-अलग हैं: यूरोपीय परिषद और यूरोपीय आयोग को एक संस्था न समझें।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218449&lang=1&reg=6",
+          "questions": [
+            {
+              "question": "2026 में भारत ने कौन-सा गणतंत्र दिवस मनाया?",
+              "answer": "77वाँ।",
+              "question_en": "Which Republic Day was celebrated in 2026?",
+              "answer_en": "77th.",
+              "id": "01-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "गणतंत्र दिवस की वार्षिक तारीख क्या है?",
+              "answer": "26 जनवरी।",
+              "question_en": "What is its annual date?",
+              "answer_en": "26 January.",
+              "id": "01-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "मुख्य गणतंत्र दिवस परेड किस मार्ग पर निर्धारित थी?",
+              "answer": "कर्तव्य पथ, नई दिल्ली।",
+              "question_en": "Where was the main parade scheduled to take place?",
+              "answer_en": "Kartavya Path, New Delhi.",
+              "id": "01-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "मुख्य अतिथि एंटोनियो कोस्टा किस संस्था के अध्यक्ष थे?",
+              "answer": "यूरोपीय परिषद (European Council)।",
+              "question_en": "Which institution did chief guest António Costa head?",
+              "answer_en": "European Council.",
+              "id": "01-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "मुख्य अतिथि उर्सुला वॉन डेर लेयेन किस संस्था की अध्यक्ष थीं?",
+              "answer": "यूरोपीय आयोग (European Commission)।",
+              "question_en": "Which institution did chief guest Ursula von der Leyen head?",
+              "answer_en": "European Commission.",
+              "id": "01-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समारोह में किस राष्ट्रीय गीत के 150 वर्ष प्रमुख विषय थे?",
+              "answer": "वंदे मातरम्।",
+              "question_en": "Which national song’s 150 years featured prominently?",
+              "answer_en": "Vande Mataram.",
+              "id": "01-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Republic Day",
+          "id": "01-01",
+          "note_en": "Distinguish the European Council from the European Commission. This source announced the parade programme.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "पद्म पुरस्कार 2026",
+          "note": "यह जनवरी की घोषणा है; पुरस्कार प्रदान करने का समारोह अलग तारीख पर हो सकता है।",
+          "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?LID=1&PRID=2218547&RegID=3&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "2026 में कितने पद्म पुरस्कार स्वीकृत किए गए?",
+              "answer": "131 पुरस्कार; दो युगल मामलों को एक-एक पुरस्कार गिना गया।",
+              "question_en": "How many awards were approved for 2026?",
+              "answer_en": "131; each of two duo cases counted as one award.",
+              "id": "01-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में पद्म विभूषण, पद्म भूषण और पद्म श्री की संख्या क्रमशः क्या थी?",
+              "answer": "5, 13 और 113।",
+              "question_en": "How many awards were in the three Padma categories respectively?",
+              "answer_en": "5 Vibhushan, 13 Bhushan and 113 Shri.",
+              "id": "01-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "उत्तर प्रदेश से कला क्षेत्र में पद्म विभूषण के लिए किसका नाम घोषित हुआ?",
+              "answer": "एन. राजम।",
+              "question_en": "Which Uttar Pradesh art recipient was named for Padma Vibhushan?",
+              "answer_en": "N. Rajam.",
+              "id": "01-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "धर्मेंद्र सिंह देओल को कौन-सा मरणोपरांत पद्म सम्मान घोषित हुआ?",
+              "answer": "पद्म विभूषण।",
+              "question_en": "Which posthumous Padma honour was announced for Dharmendra Singh Deol?",
+              "answer_en": "Padma Vibhushan.",
+              "id": "01-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "रोहित शर्मा को खेल क्षेत्र में कौन-सा पद्म सम्मान घोषित हुआ?",
+              "answer": "पद्म श्री।",
+              "question_en": "Which Padma honour was announced for Rohit Sharma in sports?",
+              "answer_en": "Padma Shri.",
+              "id": "01-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "हरमनप्रीत कौर भुल्लर को कौन-सा पद्म सम्मान घोषित हुआ?",
+              "answer": "पद्म श्री।",
+              "question_en": "Which Padma honour was announced for Harmanpreet Kaur Bhullar?",
+              "answer_en": "Padma Shri.",
+              "id": "01-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Padma Awards",
+          "id": "01-02",
+          "note_en": "These are January award announcements; presentation ceremonies take place separately.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "राष्ट्रीय मतदाता दिवस",
+          "note": "दिन की तारीख, वर्ष की थीम और निर्वाचन आयोग से संबंध साथ याद करें। संवैधानिक अनुच्छेद पृष्ठभूमि तथ्य है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2218351&lang=2&reg=3",
+          "questions": [
+            {
+              "question": "राष्ट्रीय मतदाता दिवस कब मनाया जाता है?",
+              "answer": "25 जनवरी।",
+              "question_en": "When is it observed?",
+              "answer_en": "25 January.",
+              "id": "01-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 के राष्ट्रीय मतदाता दिवस की थीम क्या थी?",
+              "answer": "My India, My Vote।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "My India, My Vote.",
+              "id": "01-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "यह दिवस किस संस्था की स्थापना से जुड़ा है?",
+              "answer": "भारत निर्वाचन आयोग।",
+              "question_en": "Whose foundation does it commemorate?",
+              "answer_en": "Election Commission of India.",
+              "id": "01-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "निर्वाचन आयोग की स्थापना किस वर्ष हुई थी?",
+              "answer": "1950।",
+              "question_en": "In which year was the Commission established?",
+              "answer_en": "1950.",
+              "id": "01-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "निर्वाचन आयोग से संबंधित प्रमुख संवैधानिक अनुच्छेद कौन-सा है?",
+              "answer": "अनुच्छेद 324।",
+              "question_en": "Which constitutional article concerns the Commission?",
+              "answer_en": "Article 324; background fact.",
+              "id": "01-03-05",
+              "kind": "background"
+            },
+            {
+              "question": "जनवरी 2026 का अंतरराष्ट्रीय लोकतंत्र एवं निर्वाचन प्रबंधन सम्मेलन किस शहर में हुआ?",
+              "answer": "नई दिल्ली।",
+              "question_en": "Where was the January 2026 international election-management conference held?",
+              "answer_en": "New Delhi.",
+              "id": "01-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "National Voters’ Day",
+          "id": "01-03",
+          "note_en": "Connect the date and theme with the Election Commission. Article 324 is background knowledge.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "स्टार्टअप इंडिया के दस वर्ष",
+          "note": "स्टार्टअप संबंधी संस्थागत पहचान को याद करें; उद्यमिता और नए व्यवसाय इस विषय का केंद्र हैं।",
+          "source": "https://www.startupindia.gov.in/national-startup-day-2026/",
+          "questions": [
+            {
+              "question": "राष्ट्रीय स्टार्टअप दिवस किस तारीख को मनाया जाता है?",
+              "answer": "16 जनवरी।",
+              "question_en": "When is National Startup Day?",
+              "answer_en": "16 January.",
+              "id": "01-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "स्टार्टअप इंडिया पहल कब शुरू हुई थी?",
+              "answer": "16 जनवरी 2016।",
+              "question_en": "When was Startup India launched?",
+              "answer_en": "16 January 2016.",
+              "id": "01-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "जनवरी 2026 में स्टार्टअप इंडिया ने कितने वर्ष पूरे किए?",
+              "answer": "10 वर्ष।",
+              "question_en": "How many years did it complete in January 2026?",
+              "answer_en": "Ten.",
+              "id": "01-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "स्टार्टअप इंडिया किस विभाग की पहल है?",
+              "answer": "DPIIT।",
+              "question_en": "Which department anchors Startup India?",
+              "answer_en": "DPIIT.",
+              "id": "01-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "DPIIT का पूरा नाम क्या है?",
+              "answer": "Department for Promotion of Industry and Internal Trade।",
+              "question_en": "Expand DPIIT.",
+              "answer_en": "Department for Promotion of Industry and Internal Trade.",
+              "id": "01-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "स्टार्टअप इंडिया का मूल उद्देश्य क्या है?",
+              "answer": "भारत में मजबूत और समावेशी स्टार्टअप व्यवस्था को बढ़ावा देना।",
+              "question_en": "What is the initiative’s broad objective?",
+              "answer_en": "A strong, inclusive startup ecosystem.",
+              "id": "01-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Ten years of Startup India",
+          "id": "01-04",
+          "note_en": "Remember the launch date, department and purpose of Startup India.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "उत्तर प्रदेश दिवस और एक जनपद–एक व्यंजन",
+          "note": "यह स्रोत समारोह से पहले की आधिकारिक घोषणा है। योजना के घोषित उद्देश्य पर प्रश्न हैं; क्रियान्वयन की सफलता का दावा नहीं किया गया है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217256&lang=1&reg=6",
+          "questions": [
+            {
+              "question": "उत्तर प्रदेश दिवस किस तारीख को मनाया जाता है?",
+              "answer": "24 जनवरी।",
+              "question_en": "When is Uttar Pradesh Day?",
+              "answer_en": "24 January.",
+              "id": "01-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 के घोषित राज्यस्तरीय कार्यक्रम का शहर कौन-सा था?",
+              "answer": "लखनऊ।",
+              "question_en": "Which city was named for the announced state event?",
+              "answer_en": "Lucknow.",
+              "id": "01-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "घोषित कार्यक्रम-स्थल का नाम क्या था?",
+              "answer": "राष्ट्र प्रेरणा स्थल।",
+              "question_en": "What was the announced venue?",
+              "answer_en": "Rashtra Prerna Sthal.",
+              "id": "01-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "कार्यक्रम में किस व्यंजन-केंद्रित योजना की शुरुआत घोषित थी?",
+              "answer": "एक जनपद–एक व्यंजन।",
+              "question_en": "Which cuisine initiative was announced for launch?",
+              "answer_en": "One District One Cuisine.",
+              "id": "01-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "उत्तर प्रदेश दिवस कार्यक्रम के घोषित मुख्य अतिथि कौन थे?",
+              "answer": "अमित शाह।",
+              "question_en": "Who was the announced chief guest for Uttar Pradesh Day?",
+              "answer_en": "Amit Shah.",
+              "id": "01-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "इस योजना में किसकी पहचान और प्रचार पर जोर है?",
+              "answer": "प्रत्येक जिले के विशिष्ट पारंपरिक व्यंजन।",
+              "question_en": "What does it seek to identify and promote?",
+              "answer_en": "Each district’s distinctive traditional cuisine.",
+              "id": "01-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Uttar Pradesh Day and ODOC",
+          "id": "01-05",
+          "note_en": "The source is a pre-event announcement. Questions concern the announced programme and scheme objectives.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "01",
+      "hi": "जनवरी",
+      "en": "January"
+    },
+    {
+      "month": "फ़रवरी / February",
+      "events": [
+        {
+          "title": "इंडिया एआई इम्पैक्ट समिट",
+          "note": "समिट की पूरी अवधि और उद्घाटन की तारीख अलग प्रश्न हो सकते हैं।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2229611&lang=1&reg=1",
+          "questions": [
+            {
+              "question": "इंडिया एआई इम्पैक्ट समिट 2026 का उद्घाटन किस तारीख को निर्धारित था?",
+              "answer": "19 फ़रवरी 2026।",
+              "question_en": "What was the scheduled inauguration date?",
+              "answer_en": "19 February 2026.",
+              "id": "02-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "समिट की घोषणा में किस शहर का नाम था?",
+              "answer": "नई दिल्ली।",
+              "question_en": "Which city was named in the summit announcement?",
+              "answer_en": "New Delhi.",
+              "id": "02-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "समिट का प्रमुख आयोजन-स्थल कौन-सा था?",
+              "answer": "भारत मंडपम।",
+              "question_en": "What was the main venue?",
+              "answer_en": "Bharat Mandapam.",
+              "id": "02-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "समिट की संस्कृत थीम क्या थी?",
+              "answer": "सर्वजन हिताय, सर्वजन सुखाय।",
+              "question_en": "What was its Sanskrit theme?",
+              "answer_en": "Sarvajan Hitaya, Sarvajan Sukhaya.",
+              "id": "02-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "समिट के तीन प्रमुख स्तंभ क्या थे?",
+              "answer": "People, Planet और Progress।",
+              "question_en": "What were its three pillars?",
+              "answer_en": "People, Planet and Progress.",
+              "id": "02-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समिट किस तकनीक पर केंद्रित था?",
+              "answer": "कृत्रिम बुद्धिमत्ता (Artificial Intelligence)।",
+              "question_en": "Which technology was its focus?",
+              "answer_en": "Artificial intelligence.",
+              "id": "02-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "India AI Impact Summit",
+          "id": "02-01",
+          "note_en": "Distinguish the scheduled opening ceremony from the full summit programme.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "केंद्रीय बजट में खेल",
+          "note": "बजट की घोषणा और बाद की कैबिनेट स्वीकृति अलग घटनाएँ हैं। यह समूह फ़रवरी की बजट घोषणा पर है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2221399&lang=1&reg=6",
+          "questions": [
+            {
+              "question": "फ़रवरी 2026 में पेश केंद्रीय बजट किस वित्त वर्ष का था?",
+              "answer": "2026–27।",
+              "question_en": "Which financial year did the budget cover?",
+              "answer_en": "2026–27.",
+              "id": "02-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "इस बजट को किसने प्रस्तुत किया?",
+              "answer": "निर्मला सीतारमण।",
+              "question_en": "Who presented it?",
+              "answer_en": "Nirmala Sitharaman.",
+              "id": "02-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "बजट किस तारीख को प्रस्तुत हुआ?",
+              "answer": "1 फ़रवरी 2026।",
+              "question_en": "On what date?",
+              "answer_en": "1 February 2026.",
+              "id": "02-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "खेल क्षेत्र में परिवर्तन के लिए किस मिशन की घोषणा हुई?",
+              "answer": "खेलो इंडिया मिशन।",
+              "question_en": "Which sports mission was announced?",
+              "answer_en": "Khelo India Mission.",
+              "id": "02-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "खेल सामग्री की विशेष पहल किस गतिविधि को बढ़ावा देती है?",
+              "answer": "निर्माण, अनुसंधान और नवाचार।",
+              "question_en": "What did the sports-goods initiative promote?",
+              "answer_en": "Manufacturing, research and innovation.",
+              "id": "02-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "खेलो इंडिया मिशन किस क्षेत्र से संबंधित है?",
+              "answer": "खेल और खिलाड़ियों का विकास।",
+              "question_en": "Which sector does Khelo India support?",
+              "answer_en": "Sports and athlete development.",
+              "id": "02-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Sports in the Union Budget",
+          "id": "02-02",
+          "note_en": "Budget proposals describe intended programmes, not completed implementation.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व आर्द्रभूमि दिवस",
+          "note": "रामसर स्थलों की संख्या समय के साथ बदलती है; नीचे की संख्या 2 फ़रवरी की विज्ञप्ति के अनुसार है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2222283",
+          "questions": [
+            {
+              "question": "विश्व आर्द्रभूमि दिवस की तारीख क्या है?",
+              "answer": "2 फ़रवरी।",
+              "question_en": "When is it observed?",
+              "answer_en": "2 February.",
+              "id": "02-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम किस ज्ञान और विरासत पर केंद्रित थी?",
+              "answer": "पारंपरिक ज्ञान और सांस्कृतिक विरासत।",
+              "question_en": "What knowledge and heritage did the 2026 theme emphasise?",
+              "answer_en": "Traditional knowledge and cultural heritage.",
+              "id": "02-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "राष्ट्रीय कार्यक्रम किस अभयारण्य में हुआ?",
+              "answer": "असोला भट्टी वन्यजीव अभयारण्य।",
+              "question_en": "Where was the national event held?",
+              "answer_en": "Asola Bhatti Wildlife Sanctuary.",
+              "id": "02-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "2 फ़रवरी 2026 की विज्ञप्ति में भारत के कितने रामसर स्थल बताए गए?",
+              "answer": "98।",
+              "question_en": "How many Indian Ramsar sites did the 2 February release report?",
+              "answer_en": "98, as of that release.",
+              "id": "02-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "विज्ञप्ति में चर्चित पार्वती अरगा पक्षी अभयारण्य उत्तर प्रदेश के किस जिले में है?",
+              "answer": "गोंडा।",
+              "question_en": "In which UP district is Parvati Arga Bird Sanctuary?",
+              "answer_en": "Gonda.",
+              "id": "02-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "रामसर संरक्षण का संबंध किस प्रकार के पारिस्थितिकी तंत्र से है?",
+              "answer": "आर्द्रभूमियों (Wetlands) से।",
+              "question_en": "Which ecosystem does Ramsar conservation concern?",
+              "answer_en": "Wetlands.",
+              "id": "02-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Wetlands Day",
+          "id": "02-03",
+          "note_en": "The Ramsar count is dated 2 February 2026; it is not a live total.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "राष्ट्रीय विज्ञान दिवस",
+          "note": "रमन प्रभाव और नोबेल पुरस्कार के वर्ष अलग हैं; इन्हें आपस में न बदलें।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233521&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "राष्ट्रीय विज्ञान दिवस कब मनाया जाता है?",
+              "answer": "28 फ़रवरी।",
+              "question_en": "When is it observed?",
+              "answer_en": "28 February.",
+              "id": "02-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की राष्ट्रीय विज्ञान दिवस थीम क्या थी?",
+              "answer": "Women in Science: Catalyzing Viksit Bharat।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Women in Science: Catalyzing Viksit Bharat.",
+              "id": "02-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "यह दिवस किस खोज की स्मृति में है?",
+              "answer": "रमन प्रभाव।",
+              "question_en": "Which discovery does it commemorate?",
+              "answer_en": "Raman Effect.",
+              "id": "02-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "रमन प्रभाव की खोज किसने की थी?",
+              "answer": "सी. वी. रमन।",
+              "question_en": "Who made the discovery?",
+              "answer_en": "C. V. Raman.",
+              "id": "02-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "रमन प्रभाव की खोज किस वर्ष हुई थी?",
+              "answer": "1928।",
+              "question_en": "In which year?",
+              "answer_en": "1928.",
+              "id": "02-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "रमन को भौतिकी का नोबेल पुरस्कार किस वर्ष मिला?",
+              "answer": "1930।",
+              "question_en": "When did Raman receive the Physics Nobel Prize?",
+              "answer_en": "1930.",
+              "id": "02-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "National Science Day",
+          "id": "02-04",
+          "note_en": "The Raman Effect discovery year and Nobel Prize year are different.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "मिलानो कॉर्टिना शीतकालीन ओलंपिक",
+          "note": "स्थान और अगले आयोजन को अलग रखें: 2026 इटली में, अगला शीतकालीन संस्करण फ्रांसीसी आल्प्स में।",
+          "source": "https://milanocortina2026.coni.it/en/news/curtain-falls-on-milano-cortina-2026-the-tricolour-paraded-at-the-arena-di-verona-in-the-hands-of-vittozzi-and-ghiotto.html",
+          "questions": [
+            {
+              "question": "मिलानो कॉर्टिना 2026 किस प्रकार के ओलंपिक थे?",
+              "answer": "शीतकालीन ओलंपिक।",
+              "question_en": "What type of Olympics were these?",
+              "answer_en": "Winter Olympics.",
+              "id": "02-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "इन खेलों का मेजबान देश कौन-सा था?",
+              "answer": "इटली।",
+              "question_en": "Which country hosted them?",
+              "answer_en": "Italy.",
+              "id": "02-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "समापन समारोह का प्रसिद्ध स्थल कौन-सा था?",
+              "answer": "एरीना दी वेरोना।",
+              "question_en": "What was the closing-ceremony venue?",
+              "answer_en": "Arena di Verona.",
+              "id": "02-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "यह समापन स्थल किस शहर में है?",
+              "answer": "वेरोना।",
+              "question_en": "In which city is that venue?",
+              "answer_en": "Verona.",
+              "id": "02-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "अगले शीतकालीन ओलंपिक किस वर्ष निर्धारित हैं?",
+              "answer": "2030।",
+              "question_en": "When is the next Winter Olympics edition scheduled?",
+              "answer_en": "2030.",
+              "id": "02-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "2030 का शीतकालीन ओलंपिक आयोजन किस क्षेत्र को सौंपा गया?",
+              "answer": "फ्रांसीसी आल्प्स।",
+              "question_en": "Which region received the next edition?",
+              "answer_en": "French Alps.",
+              "id": "02-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Milano Cortina Winter Olympics",
+          "id": "02-05",
+          "note_en": "Keep the 2026 host and the planned 2030 host separate.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "02",
+      "hi": "फ़रवरी",
+      "en": "February"
+    },
+    {
+      "month": "मार्च / March",
+      "events": [
+        {
+          "title": "नोएडा अंतरराष्ट्रीय हवाई अड्डे का उद्घाटन",
+          "note": "उद्घाटन को पहली व्यावसायिक उड़ान की तारीख न मानें। जून का अलग समूह इसी अंतर का अभ्यास कराता है।",
+          "source": "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2246413&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "नोएडा अंतरराष्ट्रीय हवाई अड्डे के पहले चरण का उद्घाटन कब हुआ?",
+              "answer": "28 मार्च 2026।",
+              "question_en": "When was Phase I inaugurated?",
+              "answer_en": "28 March 2026.",
+              "id": "03-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह हवाई अड्डा किस राज्य में है?",
+              "answer": "उत्तर प्रदेश।",
+              "question_en": "In which state is the airport?",
+              "answer_en": "Uttar Pradesh.",
+              "id": "03-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इसे किस स्थानीय स्थान के नाम से भी जाना जाता है?",
+              "answer": "जेवर हवाई अड्डा।",
+              "question_en": "Which local place-name is associated with it?",
+              "answer_en": "Jewar.",
+              "id": "03-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "मार्च में किस चरण का उद्घाटन हुआ?",
+              "answer": "प्रथम चरण (Phase I)।",
+              "question_en": "Which phase was inaugurated?",
+              "answer_en": "Phase I.",
+              "id": "03-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "पहले चरण का लगभग निवेश कितना बताया गया?",
+              "answer": "₹11,200 करोड़।",
+              "question_en": "What approximate investment was reported?",
+              "answer_en": "₹11,200 crore.",
+              "id": "03-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "उद्घाटन किसने किया?",
+              "answer": "प्रधानमंत्री नरेंद्र मोदी।",
+              "question_en": "Who inaugurated it?",
+              "answer_en": "Prime Minister Narendra Modi.",
+              "id": "03-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Noida airport inauguration",
+          "id": "03-01",
+          "note_en": "Inauguration and commercial flight operations are different milestones; compare the June topic.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "संशोधित उड़ान योजना",
+          "note": "यह क्षेत्रीय हवाई संपर्क का विषय है। स्वीकृत बजट को वास्तविक खर्च न समझें।",
+          "source": "https://newsonair.gov.in/cabinet-approves-modified-udan-scheme-to-develop-100-airports-at-cost-of-over-28000-crore-in-next-10-years/",
+          "questions": [
+            {
+              "question": "संशोधित उड़ान योजना को कैबिनेट की मंजूरी किस महीने मिली?",
+              "answer": "मार्च 2026।",
+              "question_en": "In which month was Cabinet approval announced?",
+              "answer_en": "March 2026.",
+              "id": "03-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "स्वीकृति की तारीख क्या थी?",
+              "answer": "25 मार्च 2026।",
+              "question_en": "What was the approval date?",
+              "answer_en": "25 March 2026.",
+              "id": "03-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "स्वीकृत कुल परिव्यय कितना था?",
+              "answer": "₹28,840 करोड़।",
+              "question_en": "What outlay was approved?",
+              "answer_en": "₹28,840 crore.",
+              "id": "03-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "योजना की स्वीकृत अवधि कितनी थी?",
+              "answer": "10 वर्ष।",
+              "question_en": "What was the approved duration?",
+              "answer_en": "Ten years.",
+              "id": "03-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "यह अवधि किन वित्त वर्षों तक है?",
+              "answer": "2026–27 से 2035–36 तक।",
+              "question_en": "Which financial years does that cover?",
+              "answer_en": "2026–27 to 2035–36.",
+              "id": "03-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "संशोधित उड़ान योजना का मुख्य उद्देश्य क्या है?",
+              "answer": "क्षेत्रीय हवाई संपर्क और हवाई सेवाओं की पहुँच बढ़ाना।",
+              "question_en": "What is the main purpose?",
+              "answer_en": "Wider regional air connectivity and access.",
+              "id": "03-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Modified UDAN",
+          "id": "03-02",
+          "note_en": "Approved expenditure is not the same as money already spent.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "पुरुष टी20 विश्व कप",
+          "note": "विजेता, उपविजेता और फाइनल का शहर सर्वाधिक सीधे पूछे जा सकने वाले तथ्य हैं।",
+          "source": "https://www.icc-cricket.com/tournaments/mens-t20-world-cup-2026/news/live-india-new-zealand-chase-world-cup-glory",
+          "questions": [
+            {
+              "question": "2026 पुरुष टी20 विश्व कप किस देश ने जीता?",
+              "answer": "भारत।",
+              "question_en": "Who won the 2026 tournament?",
+              "answer_en": "India.",
+              "id": "03-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल में भारत का प्रतिद्वंद्वी कौन था?",
+              "answer": "न्यूज़ीलैंड।",
+              "question_en": "Who did India face in the final?",
+              "answer_en": "New Zealand.",
+              "id": "03-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल किस शहर में हुआ?",
+              "answer": "अहमदाबाद।",
+              "question_en": "Which city hosted the final?",
+              "answer_en": "Ahmedabad.",
+              "id": "03-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल किस तारीख को हुआ?",
+              "answer": "8 मार्च 2026।",
+              "question_en": "When was the final?",
+              "answer_en": "8 March 2026.",
+              "id": "03-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "टी20 विश्व कप किस खेल से संबंधित है?",
+              "answer": "क्रिकेट।",
+              "question_en": "Which sport is involved?",
+              "answer_en": "Cricket.",
+              "id": "03-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "टी20 में एक पूर्ण निर्धारित पारी अधिकतम कितने ओवर की होती है?",
+              "answer": "20 ओवर; यह खेल-प्रारूप का पृष्ठभूमि तथ्य है।",
+              "question_en": "How many overs form a full scheduled T20 innings?",
+              "answer_en": "20; format background.",
+              "id": "03-03-06",
+              "kind": "background"
+            }
+          ],
+          "title_en": "Men’s T20 World Cup",
+          "id": "03-03",
+          "note_en": "Revise the winner, runner-up, venue and date. The overs question is format background.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व जल दिवस",
+          "note": "2026 का विषय पानी और लैंगिक समानता को जोड़ता है; केवल जल-संरक्षण तक सीमित न याद करें।",
+          "source": "https://www.un.org/en/desa/world-water-day-2026",
+          "questions": [
+            {
+              "question": "विश्व जल दिवस कब मनाया जाता है?",
+              "answer": "22 मार्च।",
+              "question_en": "When is it observed?",
+              "answer_en": "22 March.",
+              "id": "03-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 अभियान का संदेश क्या था?",
+              "answer": "Where water flows, equality grows।",
+              "question_en": "What was the 2026 campaign message?",
+              "answer_en": "Where water flows, equality grows.",
+              "id": "03-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का मुख्य सामाजिक संबंध किस समानता से था?",
+              "answer": "लैंगिक समानता।",
+              "question_en": "Which equality issue was central?",
+              "answer_en": "Gender equality.",
+              "id": "03-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "विश्व जल विकास रिपोर्ट 2026 का शीर्षक क्या था?",
+              "answer": "Water for all people: Equal rights and opportunities।",
+              "question_en": "What was the 2026 water-development report title?",
+              "answer_en": "Water for all people: Equal rights and opportunities.",
+              "id": "03-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "सुरक्षित पानी के साथ किस सुविधा को मानवाधिकार के रूप में रेखांकित किया गया?",
+              "answer": "स्वच्छता (Sanitation)।",
+              "question_en": "Which service was discussed alongside safe water?",
+              "answer_en": "Sanitation.",
+              "id": "03-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "संयुक्त राष्ट्र मुख्यालय में संबंधित आयोजन किस शहर में था?",
+              "answer": "न्यूयॉर्क।",
+              "question_en": "Where was the UN-headquarters celebration located?",
+              "answer_en": "New York.",
+              "id": "03-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Water Day",
+          "id": "03-04",
+          "note_en": "Connect water and sanitation with gender equality and the report title.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "अंतरराष्ट्रीय महिला दिवस",
+          "note": "यहाँ विषय अधिकार, न्याय और कार्रवाई है; किसी निजी अभियान की थीम को संयुक्त राष्ट्र की थीम न मानें।",
+          "source": "https://www.un.org/en/observances/womens-day/messages",
+          "questions": [
+            {
+              "question": "अंतरराष्ट्रीय महिला दिवस की तारीख क्या है?",
+              "answer": "8 मार्च।",
+              "question_en": "When is it observed?",
+              "answer_en": "8 March.",
+              "id": "03-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 के संयुक्त राष्ट्र संदेश के तीन मुख्य विचार क्या थे?",
+              "answer": "अधिकार, न्याय और कार्रवाई।",
+              "question_en": "What three ideas framed the 2026 UN message?",
+              "answer_en": "Rights, justice and action.",
+              "id": "03-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "यह संदेश किनके लिए था?",
+              "answer": "सभी महिलाओं और लड़कियों के लिए।",
+              "question_en": "For whom was the message intended?",
+              "answer_en": "All women and girls.",
+              "id": "03-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "महिला दिवस का मूल समानता-संबंधी विषय क्या है?",
+              "answer": "लैंगिक समानता।",
+              "question_en": "What broad equality goal does it concern?",
+              "answer_en": "Gender equality.",
+              "id": "03-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "UN Women किस व्यापक अंतरराष्ट्रीय व्यवस्था का भाग है?",
+              "answer": "संयुक्त राष्ट्र।",
+              "question_en": "Which international system includes UN Women?",
+              "answer_en": "United Nations.",
+              "id": "03-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समान प्रतिनिधित्व का अर्थ क्या है?",
+              "answer": "निर्णय लेने वाले क्षेत्रों में महिलाओं की बराबर भागीदारी; यह विषय की व्याख्या है।",
+              "question_en": "What does equal representation mean here?",
+              "answer_en": "Equal participation by women in decision-making; conceptual explanation.",
+              "id": "03-05-06",
+              "kind": "application"
+            }
+          ],
+          "title_en": "International Women’s Day",
+          "id": "03-05",
+          "note_en": "The UN message links rights, justice and action. The final question is conceptual.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "03",
+      "hi": "मार्च",
+      "en": "March"
+    },
+    {
+      "month": "अप्रैल / April",
+      "events": [
+        {
+          "title": "कलपक्कम का प्रोटोटाइप फास्ट ब्रीडर रिएक्टर",
+          "note": "क्रिटिकलिटी का अर्थ नियंत्रित नाभिकीय शृंखला अभिक्रिया शुरू होना है; यह अपने आप व्यावसायिक बिजली आपूर्ति का दावा नहीं है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2249537&lang=1&reg=1",
+          "questions": [
+            {
+              "question": "PFBR ने पहली क्रिटिकलिटी कब प्राप्त की?",
+              "answer": "6 अप्रैल 2026।",
+              "question_en": "When was first criticality achieved?",
+              "answer_en": "6 April 2026.",
+              "id": "04-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह रिएक्टर कहाँ स्थित है?",
+              "answer": "कलपक्कम, तमिलनाडु।",
+              "question_en": "Where is the reactor?",
+              "answer_en": "Kalpakkam, Tamil Nadu.",
+              "id": "04-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इसकी विद्युत क्षमता कितनी है?",
+              "answer": "500 MWe।",
+              "question_en": "What is its electrical capacity?",
+              "answer_en": "500 MWe.",
+              "id": "04-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "PFBR का पूरा नाम क्या है?",
+              "answer": "Prototype Fast Breeder Reactor।",
+              "question_en": "Expand PFBR.",
+              "answer_en": "Prototype Fast Breeder Reactor.",
+              "id": "04-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "इसके प्रौद्योगिकी विकास और डिजाइन का संस्थान कौन था?",
+              "answer": "इंदिरा गांधी परमाणु अनुसंधान केंद्र (IGCAR)।",
+              "question_en": "Which institution developed its technology and design?",
+              "answer_en": "Indira Gandhi Centre for Atomic Research, IGCAR.",
+              "id": "04-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "इसे किस सार्वजनिक क्षेत्र की कंपनी ने बनाया और कमीशन किया?",
+              "answer": "BHAVINI।",
+              "question_en": "Which public-sector company built and commissioned it?",
+              "answer_en": "BHAVINI.",
+              "id": "04-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Kalpakkam PFBR",
+          "id": "04-01",
+          "note_en": "First criticality means the start of a controlled fission chain reaction, not full commercial power generation.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "आर्टेमिस II",
+          "note": "यह चंद्रमा के पास से मानवयुक्त उड़ान का मिशन था; इसे चंद्रमा पर उतरने वाला मिशन न लिखें।",
+          "source": "https://www.nasa.gov/mission/artemis-ii/",
+          "questions": [
+            {
+              "question": "आर्टेमिस II किस अंतरिक्ष एजेंसी का मिशन है?",
+              "answer": "NASA।",
+              "question_en": "Which agency leads Artemis II?",
+              "answer_en": "NASA.",
+              "id": "04-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "अप्रैल 2026 में इसका प्रक्षेपण किस तारीख को हुआ?",
+              "answer": "1 अप्रैल 2026।",
+              "question_en": "When did it launch?",
+              "answer_en": "1 April 2026.",
+              "id": "04-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "मिशन के अंतरिक्षयान का नाम क्या था?",
+              "answer": "ओरायन (Orion)।",
+              "question_en": "What spacecraft carried the crew?",
+              "answer_en": "Orion.",
+              "id": "04-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "प्रक्षेपण रॉकेट का नाम क्या था?",
+              "answer": "Space Launch System (SLS)।",
+              "question_en": "What rocket launched it?",
+              "answer_en": "Space Launch System, SLS.",
+              "id": "04-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "चार सदस्यीय दल में कनाडा के अंतरिक्ष यात्री कौन थे?",
+              "answer": "जेरेमी हैनसेन।",
+              "question_en": "Which Canadian astronaut joined the four-person crew?",
+              "answer_en": "Jeremy Hansen.",
+              "id": "04-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "मिशन का प्रमुख गंतव्य-संबंधी स्वरूप क्या था?",
+              "answer": "चंद्रमा के पास से मानवयुक्त उड़ान (crewed lunar flyby)।",
+              "question_en": "Was its principal lunar mission a landing or flyby?",
+              "answer_en": "A crewed lunar flyby.",
+              "id": "04-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Artemis II",
+          "id": "04-02",
+          "note_en": "Artemis II was a crewed lunar flyby. Do not describe it as a lunar landing.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व स्वास्थ्य दिवस",
+          "note": "यह अभियान विज्ञान-आधारित सार्वजनिक स्वास्थ्य पर केंद्रित था। इसे व्यक्तिगत चिकित्सा सलाह के रूप में न पढ़ें।",
+          "source": "https://www.who.int/news-room/events/detail/2026/04/07/default-calendar/world-health-day-2026-together-for-health-stand-with-science",
+          "questions": [
+            {
+              "question": "विश्व स्वास्थ्य दिवस की तारीख क्या है?",
+              "answer": "7 अप्रैल।",
+              "question_en": "When is it observed?",
+              "answer_en": "7 April.",
+              "id": "04-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम क्या थी?",
+              "answer": "Together for health. Stand with science।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Together for health. Stand with science.",
+              "id": "04-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इस दिवस से संबंधित संयुक्त राष्ट्र की स्वास्थ्य संस्था कौन-सी है?",
+              "answer": "विश्व स्वास्थ्य संगठन (WHO)।",
+              "question_en": "Which UN health organisation leads it?",
+              "answer_en": "WHO.",
+              "id": "04-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "7 अप्रैल का अंतरराष्ट्रीय One Health Summit किस देश ने आयोजित किया?",
+              "answer": "फ्रांस।",
+              "question_en": "Which country hosted the 7 April One Health Summit?",
+              "answer_en": "France.",
+              "id": "04-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "WHO Collaborating Centres का पहला वैश्विक मंच किन तारीखों पर था?",
+              "answer": "7–9 अप्रैल 2026।",
+              "question_en": "When was the first global forum of WHO Collaborating Centres?",
+              "answer_en": "7–9 April 2026.",
+              "id": "04-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "इस अभियान में स्वास्थ्य निर्णयों का किस आधार पर समर्थन किया गया?",
+              "answer": "वैज्ञानिक साक्ष्यों के आधार पर।",
+              "question_en": "What should underpin health decisions in this campaign?",
+              "answer_en": "Scientific evidence.",
+              "id": "04-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Health Day",
+          "id": "04-03",
+          "note_en": "Remember the theme and distinguish the One Health Summit from the WHO forum.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "पृथ्वी दिवस",
+          "note": "नीचे के अंतिम तीन प्रश्न थीम से जुड़े पर्यावरणीय पृष्ठभूमि/अवधारणा प्रश्न हैं।",
+          "source": "https://www.govinfo.gov/features/earth-day-2026",
+          "questions": [
+            {
+              "question": "पृथ्वी दिवस कब मनाया जाता है?",
+              "answer": "22 अप्रैल।",
+              "question_en": "When is Earth Day?",
+              "answer_en": "22 April.",
+              "id": "04-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "पृथ्वी दिवस 2026 की थीम क्या थी?",
+              "answer": "Our Power, Our Planet।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Our Power, Our Planet.",
+              "id": "04-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इस थीम का प्रमुख ऊर्जा-संबंधी जोर क्या था?",
+              "answer": "नवीकरणीय ऊर्जा।",
+              "question_en": "Which energy category was emphasised?",
+              "answer_en": "Renewable energy.",
+              "id": "04-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "सौर ऊर्जा नवीकरणीय है या जीवाश्म ईंधन?",
+              "answer": "नवीकरणीय ऊर्जा।",
+              "question_en": "Is solar energy renewable or a fossil fuel?",
+              "answer_en": "Renewable; background.",
+              "id": "04-04-04",
+              "kind": "background"
+            },
+            {
+              "question": "पवन ऊर्जा किस प्राकृतिक स्रोत का उपयोग करती है?",
+              "answer": "हवा की गति।",
+              "question_en": "What natural source does wind energy use?",
+              "answer_en": "Moving air; background.",
+              "id": "04-04-05",
+              "kind": "background"
+            },
+            {
+              "question": "समुदाय स्तर पर पृथ्वी दिवस का एक उपयुक्त कार्य क्या है?",
+              "answer": "स्थानीय पर्यावरण संरक्षण गतिविधि; जैसे कचरा कम करने का अभियान।",
+              "question_en": "Name a suitable community activity.",
+              "answer_en": "An environmental initiative such as reducing waste; application.",
+              "id": "04-04-06",
+              "kind": "application"
+            }
+          ],
+          "title_en": "Earth Day",
+          "id": "04-04",
+          "note_en": "The last three questions apply basic environmental knowledge to the campaign.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "भारत–न्यूज़ीलैंड मुक्त व्यापार समझौता",
+          "note": "हस्ताक्षर होना और समझौता लागू होना अलग अवस्थाएँ हैं; यह समूह अप्रैल के हस्ताक्षर पर है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2255914&lang=1&reg=3",
+          "questions": [
+            {
+              "question": "भारत ने अप्रैल 2026 में किस देश से संबंधित FTA पर हस्ताक्षर किए?",
+              "answer": "न्यूज़ीलैंड।",
+              "question_en": "With which country was this April FTA signed?",
+              "answer_en": "New Zealand.",
+              "id": "04-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "हस्ताक्षर की तारीख क्या थी?",
+              "answer": "27 अप्रैल 2026।",
+              "question_en": "When was it signed?",
+              "answer_en": "27 April 2026.",
+              "id": "04-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "हस्ताक्षर किस शहर में हुए?",
+              "answer": "नई दिल्ली।",
+              "question_en": "In which city?",
+              "answer_en": "New Delhi.",
+              "id": "04-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "समारोह का स्थल कौन-सा था?",
+              "answer": "भारत मंडपम।",
+              "question_en": "At which venue?",
+              "answer_en": "Bharat Mandapam.",
+              "id": "04-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "न्यूज़ीलैंड के व्यापार एवं निवेश मंत्री कौन थे?",
+              "answer": "टॉड मैक्ले।",
+              "question_en": "Who was New Zealand’s Trade and Investment Minister?",
+              "answer_en": "Todd McClay.",
+              "id": "04-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "FTA का पूरा नाम क्या है?",
+              "answer": "Free Trade Agreement।",
+              "question_en": "Expand FTA.",
+              "answer_en": "Free Trade Agreement.",
+              "id": "04-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "India–New Zealand FTA",
+          "id": "04-05",
+          "note_en": "Signing a trade agreement is distinct from its entry into force.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "04",
+      "hi": "अप्रैल",
+      "en": "April"
+    },
+    {
+      "month": "मई / May",
+      "events": [
+        {
+          "title": "राष्ट्रीय प्रौद्योगिकी दिवस",
+          "note": "दिवस की ऐतिहासिक पृष्ठभूमि 1998 की है; इसे 2026 की नई खोज न मानें।",
+          "source": "https://www.indiascienceandtechnology.gov.in/conferences-and-seminars/regular-events/national-technology-day-2?language=en",
+          "questions": [
+            {
+              "question": "राष्ट्रीय प्रौद्योगिकी दिवस कब मनाया जाता है?",
+              "answer": "11 मई।",
+              "question_en": "When is it observed?",
+              "answer_en": "11 May.",
+              "id": "05-01-01",
+              "kind": "background"
+            },
+            {
+              "question": "यह दिवस किन ऐतिहासिक परमाणु परीक्षणों से जुड़ा है?",
+              "answer": "पोखरण के 1998 परीक्षण।",
+              "question_en": "Which nuclear tests form its historical background?",
+              "answer_en": "Pokhran tests of 1998.",
+              "id": "05-01-02",
+              "kind": "background"
+            },
+            {
+              "question": "उसी ऐतिहासिक संदर्भ में किस स्वदेशी विमान की उड़ान याद की जाती है?",
+              "answer": "हंसा-3।",
+              "question_en": "Which indigenous aircraft’s flight is associated with that history?",
+              "answer_en": "Hansa-3.",
+              "id": "05-01-03",
+              "kind": "background"
+            },
+            {
+              "question": "उस संदर्भ में किस मिसाइल के परीक्षण का उल्लेख है?",
+              "answer": "त्रिशूल।",
+              "question_en": "Which missile test is also recalled?",
+              "answer_en": "Trishul.",
+              "id": "05-01-04",
+              "kind": "background"
+            },
+            {
+              "question": "यह दिवस किस केंद्रीय मंत्रालय के विज्ञान-प्रौद्योगिकी क्षेत्र से जुड़ा है?",
+              "answer": "विज्ञान एवं प्रौद्योगिकी मंत्रालय।",
+              "question_en": "Which ministry’s domain does the day concern?",
+              "answer_en": "Ministry of Science and Technology.",
+              "id": "05-01-05",
+              "kind": "background"
+            },
+            {
+              "question": "दिवस विज्ञान को किन दो अन्य क्षेत्रों से जोड़ने पर जोर देता है?",
+              "answer": "समाज और उद्योग।",
+              "question_en": "Besides science, which two spheres does it seek to connect?",
+              "answer_en": "Society and industry.",
+              "id": "05-01-06",
+              "kind": "background"
+            }
+          ],
+          "title_en": "National Technology Day",
+          "id": "05-01",
+          "note_en": "The historical tests belong to 1998; this is background revision for the May observance.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "अंतरराष्ट्रीय जैव विविधता दिवस",
+          "note": "स्थानीय संरक्षण और वैश्विक प्रभाव का संबंध याद करें।",
+          "source": "https://www.cbd.int/biodiversity-day/2026/theme",
+          "questions": [
+            {
+              "question": "अंतरराष्ट्रीय जैव विविधता दिवस कब मनाया जाता है?",
+              "answer": "22 मई।",
+              "question_en": "When is it observed?",
+              "answer_en": "22 May.",
+              "id": "05-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम क्या थी?",
+              "answer": "Acting locally for global impact।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Acting locally for global impact.",
+              "id": "05-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "CBD का पूरा नाम क्या है?",
+              "answer": "Convention on Biological Diversity।",
+              "question_en": "Expand CBD.",
+              "answer_en": "Convention on Biological Diversity.",
+              "id": "05-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "इस दिवस का संबंध CBD के पाठ को अपनाने की किस तारीख से है?",
+              "answer": "22 मई 1992।",
+              "question_en": "When was the Convention’s text adopted?",
+              "answer_en": "22 May 1992.",
+              "id": "05-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "थीम किस स्तर की कार्रवाई को विशेष महत्व देती है?",
+              "answer": "स्थानीय स्तर की कार्रवाई।",
+              "question_en": "Which scale of action does the theme emphasise?",
+              "answer_en": "Local action.",
+              "id": "05-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "इस कार्रवाई का व्यापक संरक्षण लक्ष्य क्या है?",
+              "answer": "जैव विविधता की हानि रोकना और उसे उलटना।",
+              "question_en": "What is the broader conservation objective?",
+              "answer_en": "Halt and reverse biodiversity loss.",
+              "id": "05-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "International Day for Biological Diversity",
+          "id": "05-02",
+          "note_en": "Link local action to the wider goal of reversing biodiversity loss.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "आईपीएल फाइनल 2026",
+          "note": "टूर्नामेंट का परिणाम और एक मैच के प्रदर्शन को अलग याद करें।",
+          "source": "https://www.iplt20.com/news/article/tata-ipl-2026-final-rcb-v-gt-match-report",
+          "questions": [
+            {
+              "question": "आईपीएल 2026 का खिताब किस टीम ने जीता?",
+              "answer": "रॉयल चैलेंजर्स बेंगलुरु।",
+              "question_en": "Who won IPL 2026?",
+              "answer_en": "Royal Challengers Bengaluru.",
+              "id": "05-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल में उपविजेता कौन था?",
+              "answer": "गुजरात टाइटन्स।",
+              "question_en": "Who were the runners-up?",
+              "answer_en": "Gujarat Titans.",
+              "id": "05-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल का मैदान कौन-सा था?",
+              "answer": "नरेंद्र मोदी स्टेडियम।",
+              "question_en": "Where was the final played?",
+              "answer_en": "Narendra Modi Stadium.",
+              "id": "05-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "विजेता टीम के कप्तान कौन थे?",
+              "answer": "रजत पाटीदार।",
+              "question_en": "Who captained the winners?",
+              "answer_en": "Rajat Patidar.",
+              "id": "05-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "फाइनल में जीत का अंतर क्या था?",
+              "answer": "5 विकेट।",
+              "question_en": "What was the winning margin?",
+              "answer_en": "Five wickets.",
+              "id": "05-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "इस जीत के बाद RCB के कुल आईपीएल खिताब कितने हुए?",
+              "answer": "2।",
+              "question_en": "How many IPL titles did RCB then have?",
+              "answer_en": "Two.",
+              "id": "05-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "IPL final",
+          "id": "05-03",
+          "note_en": "Use the official match report for the result, captain and venue.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व तंबाकू निषेध दिवस",
+          "note": "अभियान तंबाकू और निकोटीन उत्पादों के आकर्षण तथा लत पर केंद्रित है।",
+          "source": "https://www.who.int/campaigns/world-no-tobacco-day/2026",
+          "questions": [
+            {
+              "question": "विश्व तंबाकू निषेध दिवस कब मनाया जाता है?",
+              "answer": "31 मई।",
+              "question_en": "When is it observed?",
+              "answer_en": "31 May.",
+              "id": "05-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 अभियान का शीर्षक क्या था?",
+              "answer": "Unmask the appeal – countering tobacco and nicotine addiction।",
+              "question_en": "What was the 2026 campaign title?",
+              "answer_en": "Unmask the appeal – countering tobacco and nicotine addiction.",
+              "id": "05-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इस अभियान का प्रमुख अंतरराष्ट्रीय संगठन कौन है?",
+              "answer": "WHO।",
+              "question_en": "Which organisation leads the campaign?",
+              "answer_en": "WHO.",
+              "id": "05-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "तंबाकू के साथ किस पदार्थ की लत पर विशेष ध्यान था?",
+              "answer": "निकोटीन।",
+              "question_en": "Which addictive substance was highlighted alongside tobacco?",
+              "answer_en": "Nicotine.",
+              "id": "05-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "अभियान में किस आयु-समूह को उद्योग के आकर्षण से बचाने पर विशेष जोर था?",
+              "answer": "किशोरों और युवाओं को।",
+              "question_en": "Which population was especially targeted for protection?",
+              "answer_en": "Adolescents and young people.",
+              "id": "05-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "विद्यालय तंबाकू और निकोटीन से बचाव के लिए क्या कर सकते हैं?",
+              "answer": "उदाहरण: परिसर को तंबाकू और निकोटीन से मुक्त रखना।",
+              "question_en": "What can schools do to support tobacco and nicotine prevention?",
+              "answer_en": "For example, keep campuses tobacco- and nicotine-free.",
+              "id": "05-04-06",
+              "kind": "application"
+            }
+          ],
+          "title_en": "World No Tobacco Day",
+          "id": "05-04",
+          "note_en": "The school-campus question is an application example, not an event result.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व प्रेस स्वतंत्रता दिवस",
+          "note": "दिवस की थीम में मानवाधिकार, विकास और सुरक्षा को प्रेस की स्वतंत्रता से जोड़ा गया है।",
+          "source": "https://www.unesco.org/en/days/press-freedom?hub=66653",
+          "questions": [
+            {
+              "question": "विश्व प्रेस स्वतंत्रता दिवस कब मनाया जाता है?",
+              "answer": "3 मई।",
+              "question_en": "When is it observed?",
+              "answer_en": "3 May.",
+              "id": "05-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "इस दिवस से संबंधित प्रमुख संयुक्त राष्ट्र संस्था कौन-सी है?",
+              "answer": "UNESCO।",
+              "question_en": "Which UN organisation is closely associated with it?",
+              "answer_en": "UNESCO.",
+              "id": "05-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम के शुरुआती शब्द क्या थे?",
+              "answer": "Shaping a Future at Peace।",
+              "question_en": "What were the opening words of the 2026 theme?",
+              "answer_en": "Shaping a Future at Peace.",
+              "id": "05-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "थीम में प्रेस स्वतंत्रता को किन तीन क्षेत्रों से जोड़ा गया?",
+              "answer": "मानवाधिकार, विकास और सुरक्षा।",
+              "question_en": "Which three areas were linked to press freedom?",
+              "answer_en": "Human rights, development and security.",
+              "id": "05-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "यह दिवस किन पेशेवरों की सुरक्षा पर भी ध्यान दिलाता है?",
+              "answer": "पत्रकारों की।",
+              "question_en": "Whose professional safety does the day highlight?",
+              "answer_en": "Journalists’ safety.",
+              "id": "05-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समाचार-माध्यमों के लिए किस नैतिक विषय पर आत्मचिंतन का अवसर है?",
+              "answer": "पेशेवर नैतिकता और स्वतंत्र पत्रकारिता।",
+              "question_en": "What professional issue invites reflection?",
+              "answer_en": "Ethics and independent journalism.",
+              "id": "05-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Press Freedom Day",
+          "id": "05-05",
+          "note_en": "Learn the theme alongside journalist safety and professional ethics.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "05",
+      "hi": "मई",
+      "en": "May"
+    },
+    {
+      "month": "जून / June",
+      "events": [
+        {
+          "title": "अंतरराष्ट्रीय योग दिवस",
+          "note": "2026 की थीम को पुराने वर्षों की थीम से न मिलाएँ।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2275924&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "अंतरराष्ट्रीय योग दिवस कब मनाया जाता है?",
+              "answer": "21 जून।",
+              "question_en": "When is it observed?",
+              "answer_en": "21 June.",
+              "id": "06-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में योग दिवस का कौन-सा संस्करण था?",
+              "answer": "12वाँ।",
+              "question_en": "Which edition was celebrated in 2026?",
+              "answer_en": "12th.",
+              "id": "06-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "प्रधानमंत्री ने राष्ट्रीय आयोजन का नेतृत्व किस शहर से किया?",
+              "answer": "कोलकाता।",
+              "question_en": "From which city did the Prime Minister lead the national event?",
+              "answer_en": "Kolkata.",
+              "id": "06-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "उस आयोजन का स्थल कौन-सा था?",
+              "answer": "रेड रोड।",
+              "question_en": "At which location?",
+              "answer_en": "Red Road.",
+              "id": "06-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "कोलकाता किस राज्य में है?",
+              "answer": "पश्चिम बंगाल।",
+              "question_en": "In which state is Kolkata?",
+              "answer_en": "West Bengal.",
+              "id": "06-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समूह योगाभ्यास में किस साझा अभ्यास-क्रम का उपयोग हुआ?",
+              "answer": "Common Yoga Protocol।",
+              "question_en": "Which shared exercise sequence was practised?",
+              "answer_en": "Common Yoga Protocol.",
+              "id": "06-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "International Day of Yoga",
+          "id": "06-01",
+          "note_en": "Connect the national event with Kolkata, Red Road and the Common Yoga Protocol.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व पर्यावरण दिवस",
+          "note": "2026 का मेजबान और विषय समसामयिक तथ्य हैं; ऊर्जा और उत्सर्जन संबंधी प्रश्न पृष्ठभूमि हैं।",
+          "source": "https://www.unep.org/events/un-day/world-environment-day-2026",
+          "questions": [
+            {
+              "question": "विश्व पर्यावरण दिवस कब मनाया जाता है?",
+              "answer": "5 जून।",
+              "question_en": "When is it observed?",
+              "answer_en": "5 June.",
+              "id": "06-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का मेजबान देश कौन था?",
+              "answer": "अज़रबैजान।",
+              "question_en": "Which country hosted the 2026 edition?",
+              "answer_en": "Azerbaijan.",
+              "id": "06-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का मुख्य पर्यावरणीय विषय क्या था?",
+              "answer": "जलवायु परिवर्तन।",
+              "question_en": "What was its main environmental focus?",
+              "answer_en": "Climate change.",
+              "id": "06-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "इस दिवस का प्रमुख संयुक्त राष्ट्र कार्यक्रम कौन-सा है?",
+              "answer": "UNEP।",
+              "question_en": "Which UN programme leads it?",
+              "answer_en": "UNEP.",
+              "id": "06-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "UNEP का पूरा नाम क्या है?",
+              "answer": "United Nations Environment Programme।",
+              "question_en": "Expand UNEP.",
+              "answer_en": "United Nations Environment Programme.",
+              "id": "06-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "जलवायु परिवर्तन को कम करने की एक मुख्य दिशा क्या है?",
+              "answer": "ग्रीनहाउस गैस उत्सर्जन घटाना; यह पृष्ठभूमि अवधारणा है।",
+              "question_en": "Name a core climate-mitigation approach.",
+              "answer_en": "Reducing greenhouse-gas emissions; background.",
+              "id": "06-02-06",
+              "kind": "application"
+            }
+          ],
+          "title_en": "World Environment Day",
+          "id": "06-02",
+          "note_en": "Remember the host country, climate focus and UNEP. Mitigation is background knowledge.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व महासागर दिवस",
+          "note": "यह समूह 2026 के अभियान तथा महासागर-संरक्षण की बुनियादी समझ पर है।",
+          "source": "https://www.un.org/en/observances/oceans-day",
+          "questions": [
+            {
+              "question": "विश्व महासागर दिवस कब मनाया जाता है?",
+              "answer": "8 जून।",
+              "question_en": "When is it observed?",
+              "answer_en": "8 June.",
+              "id": "06-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम क्या थी?",
+              "answer": "Reimagine।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Reimagine.",
+              "id": "06-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इस विषय में किसके प्रति सोच और देखभाल बदलने का आह्वान है?",
+              "answer": "महासागर के प्रति।",
+              "question_en": "What does the theme ask us to rethink?",
+              "answer_en": "How we understand and care for the ocean.",
+              "id": "06-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "World Ocean Assessment का कौन-सा संस्करण इस स्रोत में उल्लेखित है?",
+              "answer": "तीसरा संस्करण।",
+              "question_en": "Which World Ocean Assessment edition was highlighted?",
+              "answer_en": "Third.",
+              "id": "06-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "उस आकलन की तैयारी में कितने से अधिक विशेषज्ञ जुड़े थे?",
+              "answer": "590 से अधिक।",
+              "question_en": "How many experts contributed to that assessment?",
+              "answer_en": "More than 590.",
+              "id": "06-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "समुद्री पर्यावरण के उपयोग का अपेक्षित स्वरूप क्या है?",
+              "answer": "सतत उपयोग, संरक्षण के साथ।",
+              "question_en": "What approach to marine resources is encouraged?",
+              "answer_en": "Sustainable use alongside conservation.",
+              "id": "06-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Oceans Day",
+          "id": "06-03",
+          "note_en": "The expert count refers to the third World Ocean Assessment mentioned by the UN.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "राष्ट्रीय सांख्यिकी दिवस",
+          "note": "संख्या 20वाँ संस्करण है, जबकि 29 जून तारीख है।",
+          "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2277759&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "भारत में सांख्यिकी दिवस कब मनाया जाता है?",
+              "answer": "29 जून।",
+              "question_en": "When is India’s Statistics Day?",
+              "answer_en": "29 June.",
+              "id": "06-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह किसकी जयंती पर मनाया जाता है?",
+              "answer": "प्रोफेसर प्रशांत चंद्र महालनोबिस।",
+              "question_en": "Whose birth anniversary does it mark?",
+              "answer_en": "Professor Prasanta Chandra Mahalanobis.",
+              "id": "06-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में इसका कौन-सा संस्करण था?",
+              "answer": "20वाँ।",
+              "question_en": "Which edition was 2026?",
+              "answer_en": "20th.",
+              "id": "06-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम क्या थी?",
+              "answer": "Unlocking the Potential of Administrative Data।",
+              "question_en": "What was its theme?",
+              "answer_en": "Unlocking the Potential of Administrative Data.",
+              "id": "06-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "इस दिवस का संबंधित केंद्रीय मंत्रालय कौन-सा है?",
+              "answer": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI)।",
+              "question_en": "Which ministry is responsible?",
+              "answer_en": "Ministry of Statistics and Programme Implementation, MoSPI.",
+              "id": "06-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "भारत में यह दिवस किस वर्ष शुरू हुआ?",
+              "answer": "2007।",
+              "question_en": "In which year did this observance begin?",
+              "answer_en": "2007.",
+              "id": "06-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Statistics Day",
+          "id": "06-04",
+          "note_en": "Do not confuse the annual observance date with the year it began.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "नोएडा हवाई अड्डे की व्यावसायिक उड़ानें",
+          "note": "यह मार्च के उद्घाटन से अलग जून की परिचालन घटना है। इस अंतर को जानबूझकर दोहराया गया है।",
+          "source": "https://www.niairport.in/en/company/news/2026/2026-06-15",
+          "questions": [
+            {
+              "question": "नोएडा अंतरराष्ट्रीय हवाई अड्डे की पहली व्यावसायिक उड़ानें किस महीने शुरू हुईं?",
+              "answer": "जून 2026।",
+              "question_en": "In which month did the first commercial flights begin?",
+              "answer_en": "June 2026.",
+              "id": "06-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "पहली व्यावसायिक उड़ानों की घोषणा की तारीख क्या थी?",
+              "answer": "15 जून 2026।",
+              "question_en": "What date appears on the first-flights announcement?",
+              "answer_en": "15 June 2026.",
+              "id": "06-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "हवाई अड्डे का IATA कोड क्या है?",
+              "answer": "DXN।",
+              "question_en": "What is the airport’s IATA code?",
+              "answer_en": "DXN.",
+              "id": "06-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "इससे उत्तर प्रदेश के किस भाग की हवाई पहुँच को विशेष लाभ है?",
+              "answer": "पश्चिमी उत्तर प्रदेश।",
+              "question_en": "Which part of Uttar Pradesh particularly benefits?",
+              "answer_en": "Western Uttar Pradesh.",
+              "id": "06-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "क्या उद्घाटन और पहली व्यावसायिक उड़ानें एक ही महीने हुईं?",
+              "answer": "नहीं; उद्घाटन मार्च में और व्यावसायिक उड़ानें जून में।",
+              "question_en": "Did inauguration and first commercial flights occur in the same month?",
+              "answer_en": "No: March and June respectively.",
+              "id": "06-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "ORAT अभ्यासों का उद्देश्य क्या था?",
+              "answer": "सुरक्षित और सुचारु परिचालन के लिए प्रणालियों, प्रक्रियाओं और टीमों की तैयारी जाँचना।",
+              "question_en": "What was the purpose of ORAT trials?",
+              "answer_en": "Checking systems, processes and teams for safe, smooth operations.",
+              "id": "06-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Noida airport commercial operations",
+          "id": "06-05",
+          "note_en": "Commercial operations began in June, following the March inauguration.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "06",
+      "hi": "जून",
+      "en": "June"
+    },
+    {
+      "month": "जुलाई / July",
+      "events": [
+        {
+          "title": "खेलो इंडिया और खेल महासंघ सहायता",
+          "note": "संयुक्त परिव्यय को केवल खेलो इंडिया योजना का बजट न लिखें।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2292781&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "जुलाई की मंजूरी में किन दो खेल सहायता व्यवस्थाओं को साथ मजबूत किया गया?",
+              "answer": "खेलो इंडिया और राष्ट्रीय खेल महासंघों को सहायता।",
+              "question_en": "Which two support programmes were strengthened together?",
+              "answer_en": "Khelo India and assistance to national sports federations.",
+              "id": "07-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "दोनों का संयुक्त स्वीकृत परिव्यय कितना था?",
+              "answer": "₹36,441 करोड़।",
+              "question_en": "What was their combined approved outlay?",
+              "answer_en": "₹36,441 crore.",
+              "id": "07-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "स्वीकृत अवधि किन वित्त वर्षों की थी?",
+              "answer": "2026–27 से 2030–31।",
+              "question_en": "Which financial years were covered?",
+              "answer_en": "2026–27 to 2030–31.",
+              "id": "07-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "ANSF का पूरा नाम क्या है?",
+              "answer": "Assistance to National Sports Federations।",
+              "question_en": "Expand ANSF.",
+              "answer_en": "Assistance to National Sports Federations.",
+              "id": "07-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "मंजूरी किस निकाय ने दी?",
+              "answer": "केंद्रीय मंत्रिमंडल।",
+              "question_en": "Which body gave approval?",
+              "answer_en": "Union Cabinet.",
+              "id": "07-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "क्या ₹36,441 करोड़ केवल खेलो इंडिया का आँकड़ा है?",
+              "answer": "नहीं; यह दोनों व्यवस्थाओं का संयुक्त परिव्यय है।",
+              "question_en": "Is the combined figure exclusively Khelo India funding?",
+              "answer_en": "No: it includes both support programmes.",
+              "id": "07-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Khelo India and federation assistance",
+          "id": "07-01",
+          "note_en": "The approved figure combines Khelo India and assistance to national sports federations.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "ग्लासगो राष्ट्रमंडल खेल",
+          "note": "जुलाई में शुरू खेल अगस्त तक चले; परिणाम को आयोजन की शुरुआत से अलग रखें।",
+          "source": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=159339&id=159339&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "2026 राष्ट्रमंडल खेल किस शहर में हुए?",
+              "answer": "ग्लासगो।",
+              "question_en": "Which city hosted the 2026 Games?",
+              "answer_en": "Glasgow.",
+              "id": "07-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "खेल किस तारीख को शुरू हुए?",
+              "answer": "23 जुलाई 2026।",
+              "question_en": "When did they begin?",
+              "answer_en": "23 July 2026.",
+              "id": "07-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "खेलों की निर्धारित अंतिम तारीख क्या थी?",
+              "answer": "2 अगस्त 2026।",
+              "question_en": "What was the scheduled closing date?",
+              "answer_en": "2 August 2026.",
+              "id": "07-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "भारत की यह राष्ट्रमंडल खेलों में कौन-सी उपस्थिति थी?",
+              "answer": "19वीं।",
+              "question_en": "Which Commonwealth Games appearance was this for India?",
+              "answer_en": "19th.",
+              "id": "07-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "भारत की राष्ट्रमंडल खेलों में भागीदारी किस वर्ष शुरू हुई?",
+              "answer": "1934।",
+              "question_en": "When did India’s participation begin?",
+              "answer_en": "1934.",
+              "id": "07-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "जुलाई की आधिकारिक रिपोर्ट के अनुसार भारत का स्वर्ण खाता किस भारोत्तोलक ने खोला?",
+              "answer": "मीराबाई चानू।",
+              "question_en": "Who opened India’s gold account, according to the July release?",
+              "answer_en": "Weightlifter Mirabai Chanu.",
+              "id": "07-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Glasgow Commonwealth Games",
+          "id": "07-02",
+          "note_en": "The Games began in July and ended in August; the gold question is tied to the July report.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "डूरंड कप की ट्रॉफियाँ",
+          "note": "यह ट्रॉफी अनावरण की घटना है, टूर्नामेंट विजेता की घोषणा नहीं।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2281949&lang=1&reg=48",
+          "questions": [
+            {
+              "question": "डूरंड कप किस खेल से संबंधित है?",
+              "answer": "फुटबॉल।",
+              "question_en": "Which sport is associated with the Durand Cup?",
+              "answer_en": "Football.",
+              "id": "07-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की ट्रॉफियों का अनावरण किसने किया?",
+              "answer": "राष्ट्रपति द्रौपदी मुर्मु।",
+              "question_en": "Who unveiled the 2026 trophies?",
+              "answer_en": "President Droupadi Murmu.",
+              "id": "07-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "अनावरण किस तारीख को हुआ?",
+              "answer": "7 जुलाई 2026।",
+              "question_en": "On what date?",
+              "answer_en": "7 July 2026.",
+              "id": "07-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "अनावरण का स्थल कौन-सा था?",
+              "answer": "राष्ट्रपति भवन सांस्कृतिक केंद्र।",
+              "question_en": "At which venue?",
+              "answer_en": "Rashtrapati Bhavan Cultural Centre.",
+              "id": "07-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "डूरंड कप और प्रेसिडेंट्स कप के साथ तीसरी ट्रॉफी कौन-सी थी?",
+              "answer": "शिमला ट्रॉफी।",
+              "question_en": "Which trophy joined the Durand and President’s Cups?",
+              "answer_en": "Shimla Trophy.",
+              "id": "07-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "विज्ञप्ति में किस पड़ोसी देश की टीम की भागीदारी का उल्लेख था?",
+              "answer": "श्रीलंका।",
+              "question_en": "Which neighbouring country’s team was mentioned?",
+              "answer_en": "Sri Lanka.",
+              "id": "07-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Durand Cup trophies",
+          "id": "07-03",
+          "note_en": "The July event unveiled trophies; it was not the tournament final.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "वैश्विक बाघ दिवस और विद्यार्थी अभियान",
+          "note": "संख्या-आधारित बाघ अनुमान यहाँ नहीं दिए गए हैं, क्योंकि अलग सर्वेक्षण वर्षों के आँकड़े आसानी से मिल जाते हैं।",
+          "source": "https://www.eepmoefcc.nic.in/blog.aspx?media_post_id=47",
+          "questions": [
+            {
+              "question": "वैश्विक बाघ दिवस कब मनाया जाता है?",
+              "answer": "29 जुलाई।",
+              "question_en": "When is Global Tiger Day?",
+              "answer_en": "29 July.",
+              "id": "07-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 के संबंधित विद्यार्थी जागरूकता अभियान की अवधि क्या थी?",
+              "answer": "6 से 22 जुलाई।",
+              "question_en": "When did the related student campaign run?",
+              "answer_en": "6–22 July 2026.",
+              "id": "07-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "अभियान किस पर्यावरण शिक्षा कार्यक्रम के अंतर्गत था?",
+              "answer": "Environment Education Programme (EEP)।",
+              "question_en": "Which programme organised it?",
+              "answer_en": "Environment Education Programme, EEP.",
+              "id": "07-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "अभियान में किन विद्यार्थी समूहों को जोड़ा गया?",
+              "answer": "इको-क्लबों को।",
+              "question_en": "Which student groups participated?",
+              "answer_en": "Eco-Clubs.",
+              "id": "07-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "इस कार्यक्रम का संबंधित केंद्रीय मंत्रालय कौन-सा है?",
+              "answer": "पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय।",
+              "question_en": "Which central ministry oversees the programme?",
+              "answer_en": "Environment, Forest and Climate Change.",
+              "id": "07-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "अभियान का मुख्य संरक्षण विषय क्या था?",
+              "answer": "बाघ संरक्षण।",
+              "question_en": "What was the main conservation focus?",
+              "answer_en": "Tigers.",
+              "id": "07-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Global Tiger Day awareness",
+          "id": "07-04",
+          "note_en": "The student campaign dates differ from Global Tiger Day itself.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "ब्रिक्स गुवाहाटी घोषणा",
+          "note": "गुवाहाटी घोषणा मादक पदार्थों से जुड़े अपराधों पर थी; इसे सितंबर के व्यापक ब्रिक्स घोषणापत्र से अलग रखें।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282049&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "जुलाई में ब्रिक्स मादक पदार्थ-रोधी एजेंसियों की बैठक किस शहर में हुई?",
+              "answer": "गुवाहाटी।",
+              "question_en": "Which city hosted the anti-drug-agency meeting?",
+              "answer_en": "Guwahati.",
+              "id": "07-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह शहर किस राज्य में है?",
+              "answer": "असम।",
+              "question_en": "In which state?",
+              "answer_en": "Assam.",
+              "id": "07-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "बैठक के बाद किस नाम की घोषणा अपनाई गई?",
+              "answer": "गुवाहाटी घोषणा।",
+              "question_en": "What declaration was adopted?",
+              "answer_en": "Guwahati Declaration.",
+              "id": "07-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "इसका मुख्य विषय क्या था?",
+              "answer": "अवैध मादक पदार्थ तस्करी और संबंधित अंतरराष्ट्रीय संगठित अपराध से मुकाबला।",
+              "question_en": "What was its main subject?",
+              "answer_en": "Illicit drug trafficking and related transnational organised crime.",
+              "id": "07-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में ब्रिक्स की अध्यक्षता किस देश के पास थी?",
+              "answer": "भारत।",
+              "question_en": "Which country chaired BRICS in 2026?",
+              "answer_en": "India.",
+              "id": "07-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "घोषणा में देशों के बीच किस सहयोग पर जोर था?",
+              "answer": "समय पर सूचना, खुफिया जानकारी और अच्छी कार्य-पद्धतियों का आदान-प्रदान।",
+              "question_en": "What cooperation was emphasised?",
+              "answer_en": "Timely exchange of information, intelligence and good practices.",
+              "id": "07-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "BRICS Guwahati Declaration",
+          "id": "07-05",
+          "note_en": "This declaration concerns anti-drug cooperation, not the September leaders’ summit.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "07",
+      "hi": "जुलाई",
+      "en": "July"
+    },
+    {
+      "month": "अगस्त / August",
+      "events": [
+        {
+          "title": "राष्ट्रीय अंतरिक्ष दिवस",
+          "note": "उत्सव की तारीख और मूल चंद्रयान-3 घटना का वर्ष अलग याद करें।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2302469&lang=2&reg=48",
+          "questions": [
+            {
+              "question": "राष्ट्रीय अंतरिक्ष दिवस कब मनाया जाता है?",
+              "answer": "23 अगस्त।",
+              "question_en": "When is it observed?",
+              "answer_en": "23 August.",
+              "id": "08-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में इसका कौन-सा संस्करण था?",
+              "answer": "तीसरा।",
+              "question_en": "Which edition was 2026?",
+              "answer_en": "Third.",
+              "id": "08-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इस विज्ञप्ति का आयोजन किस शहर के Space Applications Centre में हुआ?",
+              "answer": "अहमदाबाद।",
+              "question_en": "Which city’s Space Applications Centre hosted this reported event?",
+              "answer_en": "Ahmedabad.",
+              "id": "08-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "SAC किस अंतरिक्ष संगठन के अंतर्गत है?",
+              "answer": "ISRO।",
+              "question_en": "Which organisation includes SAC?",
+              "answer_en": "ISRO.",
+              "id": "08-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "अहमदाबाद किस राज्य में है?",
+              "answer": "गुजरात।",
+              "question_en": "In which state is Ahmedabad?",
+              "answer_en": "Gujarat.",
+              "id": "08-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "विज्ञप्ति में उल्लिखित ISRO अध्यक्ष कौन थे?",
+              "answer": "डॉ. वी. नारायणन।",
+              "question_en": "Who was the ISRO chairman named in the release?",
+              "answer_en": "Dr V. Narayanan.",
+              "id": "08-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "National Space Day",
+          "id": "08-01",
+          "note_en": "The cited event took place at SAC Ahmedabad. Names and roles are dated to the release.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "राष्ट्रीय हथकरघा दिवस",
+          "note": "संत कबीर पुरस्कार हथकरघा से जुड़े हैं। समारोह की तारीख और वार्षिक दिवस की तारीख को अलग रखें।",
+          "source": "https://www.pib.gov.in/PressNoteDetails.aspx?ModuleId=3&NoteId=159448&lang=2&reg=3",
+          "questions": [
+            {
+              "question": "राष्ट्रीय हथकरघा दिवस की वार्षिक तारीख क्या है?",
+              "answer": "7 अगस्त।",
+              "question_en": "What is its annual date?",
+              "answer_en": "7 August.",
+              "id": "08-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में यह कौन-सा राष्ट्रीय हथकरघा दिवस था?",
+              "answer": "12वाँ।",
+              "question_en": "Which edition was 2026?",
+              "answer_en": "12th.",
+              "id": "08-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "हथकरघा क्षेत्र का संबंधित केंद्रीय मंत्रालय कौन-सा है?",
+              "answer": "वस्त्र मंत्रालय।",
+              "question_en": "Which ministry covers handlooms?",
+              "answer_en": "Ministry of Textiles.",
+              "id": "08-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 के Handloom Hackathon का नाम क्या था?",
+              "answer": "Weaving Innovation।",
+              "question_en": "What was the 2026 Handloom Hackathon called?",
+              "answer_en": "Weaving Innovation.",
+              "id": "08-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "हथकरघा के संदर्भ में GI का क्या अर्थ है?",
+              "answer": "Geographical Indication अर्थात भौगोलिक संकेत।",
+              "question_en": "What does GI stand for in product recognition?",
+              "answer_en": "Geographical Indication; background.",
+              "id": "08-02-05",
+              "kind": "background"
+            },
+            {
+              "question": "हथकरघा क्षेत्र में नवाचार का एक प्रमुख उद्देश्य क्या है?",
+              "answer": "पारंपरिक बुनाई के साथ डिजाइन, प्रौद्योगिकी और बाजार पहुँच को मजबूत करना।",
+              "question_en": "What does innovation seek to improve here?",
+              "answer_en": "Design, technology and market access alongside traditional weaving.",
+              "id": "08-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "National Handloom Day",
+          "id": "08-02",
+          "note_en": "Weaving Innovation was the hackathon name. GI is background vocabulary.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "स्वतंत्रता दिवस",
+          "note": "80वाँ स्वतंत्रता दिवस और स्वतंत्रता के 79 वर्ष अलग गणनाएँ हैं।",
+          "source": "https://www.pib.gov.in/independenceday/2026/allre_lm.aspx?l_lm=1&lang=1&reg=3",
+          "questions": [
+            {
+              "question": "2026 में भारत ने कौन-सा स्वतंत्रता दिवस मनाया?",
+              "answer": "80वाँ।",
+              "question_en": "Which Independence Day was celebrated in 2026?",
+              "answer_en": "80th.",
+              "id": "08-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "स्वतंत्रता दिवस की तारीख क्या है?",
+              "answer": "15 अगस्त।",
+              "question_en": "What is its annual date?",
+              "answer_en": "15 August.",
+              "id": "08-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "प्रधानमंत्री का मुख्य संबोधन किस ऐतिहासिक स्थल से हुआ?",
+              "answer": "लाल किला।",
+              "question_en": "From which historic monument was the main PM address delivered?",
+              "answer_en": "Red Fort.",
+              "id": "08-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "यह स्थल किस शहर में है?",
+              "answer": "दिल्ली।",
+              "question_en": "In which city?",
+              "answer_en": "Delhi.",
+              "id": "08-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "1947 से अगस्त 2026 तक स्वतंत्रता के कितने वर्ष पूरे हुए?",
+              "answer": "79 वर्ष; यह वर्ष-अंतर की गणना है।",
+              "question_en": "How many years since independence were completed?",
+              "answer_en": "79; calculated from 1947.",
+              "id": "08-03-05",
+              "kind": "background"
+            },
+            {
+              "question": "अगस्त के ध्वज-केंद्रित जनभागीदारी अभियान का नाम क्या था?",
+              "answer": "हर घर तिरंगा।",
+              "question_en": "Which flag-focused public campaign featured in August?",
+              "answer_en": "Har Ghar Tiranga.",
+              "id": "08-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "Independence Day",
+          "id": "08-03",
+          "note_en": "The 80th observance marked 79 completed years since 1947.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "ब्रिक्स विज्ञान मंत्रियों की चेन्नई घोषणा",
+          "note": "यह विज्ञान-प्रौद्योगिकी सहयोग की घोषणा है; गुवाहाटी और नई दिल्ली घोषणाओं से विषय अलग है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2302339&lang=1&reg=48",
+          "questions": [
+            {
+              "question": "अगस्त 2026 में ब्रिक्स विज्ञान मंत्रियों ने कौन-सी घोषणा अपनाई?",
+              "answer": "चेन्नई घोषणा।",
+              "question_en": "Which science declaration was adopted in August?",
+              "answer_en": "Chennai Declaration.",
+              "id": "08-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "विज्ञान मंत्रिस्तरीय बैठक का कौन-सा संस्करण था?",
+              "answer": "14वाँ।",
+              "question_en": "Which Science Ministerial Meeting edition was it?",
+              "answer_en": "14th.",
+              "id": "08-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "बैठक की अध्यक्षता किस देश ने की?",
+              "answer": "भारत।",
+              "question_en": "Which country chaired the meeting?",
+              "answer_en": "India.",
+              "id": "08-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "इस संदर्भ में STI का पूरा नाम क्या है?",
+              "answer": "Science, Technology and Innovation।",
+              "question_en": "Expand STI.",
+              "answer_en": "Science, Technology and Innovation.",
+              "id": "08-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "घोषणा अपनाए जाने की घोषणा किस भारतीय मंत्री ने की?",
+              "answer": "डॉ. जितेंद्र सिंह।",
+              "question_en": "Which Indian minister announced the adoption?",
+              "answer_en": "Dr Jitendra Singh.",
+              "id": "08-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "स्वीकृत STI गतिविधि कैलेंडर किन वर्षों के लिए था?",
+              "answer": "2026–2027।",
+              "question_en": "Which years did the endorsed activity calendar cover?",
+              "answer_en": "2026–2027.",
+              "id": "08-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "BRICS Chennai Declaration",
+          "id": "08-04",
+          "note_en": "This science meeting is distinct from the BRICS leaders’ summit.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "ICMR-SHINE और विद्यार्थी",
+          "note": "गोरखपुर के मोबाइल BSL-3 प्रयोगशाला अनुभव का उल्लेख समापन विज्ञप्ति में है; यह उत्तर प्रदेश का उपयोगी संबंध है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2299002&lang=1&reg=3",
+          "questions": [
+            {
+              "question": "SHINE 2026 मुख्य रूप से किन विद्यार्थियों के लिए था?",
+              "answer": "स्कूली विद्यार्थियों के लिए।",
+              "question_en": "Who were the principal learners targeted?",
+              "answer_en": "School students.",
+              "id": "08-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह पहल किन दो संस्थाओं से संबंधित है?",
+              "answer": "DHR और ICMR।",
+              "question_en": "Which two institutions led the initiative?",
+              "answer_en": "DHR and ICMR.",
+              "id": "08-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का दो-दिवसीय कार्यक्रम कब हुआ?",
+              "answer": "11–12 अगस्त।",
+              "question_en": "When was the two-day programme held?",
+              "answer_en": "11–12 August 2026.",
+              "id": "08-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "कार्यक्रम कितने स्थानों तक पहुँचा?",
+              "answer": "83 स्थान।",
+              "question_en": "How many locations were covered?",
+              "answer_en": "83.",
+              "id": "08-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "ये स्थान कितने राज्यों और केंद्रशासित प्रदेशों में थे?",
+              "answer": "31।",
+              "question_en": "Across how many states and union territories?",
+              "answer_en": "31.",
+              "id": "08-05-05",
+              "kind": "recall"
+            },
+            {
+              "question": "मोबाइल BSL-3 प्रयोगशाला अनुभव के लिए उत्तर प्रदेश के किस शहर का उल्लेख था?",
+              "answer": "गोरखपुर।",
+              "question_en": "Which UP city featured a mobile BSL-3 laboratory experience?",
+              "answer_en": "Gorakhpur.",
+              "id": "08-05-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "ICMR-SHINE",
+          "id": "08-05",
+          "note_en": "Remember the student audience and the Gorakhpur connection.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "08",
+      "hi": "अगस्त",
+      "en": "August"
+    },
+    {
+      "month": "सितंबर / September",
+      "events": [
+        {
+          "title": "राष्ट्रीय शिक्षक पुरस्कार",
+          "note": "स्कूल शिक्षकों, उच्च शिक्षा के शिक्षकों और कौशल प्रशिक्षकों की संख्या अलग-अलग है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2306878&lang=1&reg=19",
+          "questions": [
+            {
+              "question": "भारत में शिक्षक दिवस कब मनाया जाता है?",
+              "answer": "5 सितंबर।",
+              "question_en": "When is Teachers’ Day in India?",
+              "answer_en": "5 September.",
+              "id": "09-01-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 में तीन विभागों से कुल कितने शिक्षक और शिक्षाविद चुने गए?",
+              "answer": "82।",
+              "question_en": "How many educators were selected across the three departments?",
+              "answer_en": "82.",
+              "id": "09-01-02",
+              "kind": "recall"
+            },
+            {
+              "question": "इनमें स्कूली शिक्षा और साक्षरता विभाग के कितने शिक्षक थे?",
+              "answer": "48।",
+              "question_en": "How many were from school education and literacy?",
+              "answer_en": "48.",
+              "id": "09-01-03",
+              "kind": "recall"
+            },
+            {
+              "question": "उच्च शिक्षण संस्थानों और पॉलिटेक्निक के कितने शिक्षक/संकाय सदस्य थे?",
+              "answer": "21।",
+              "question_en": "How many were HEI/polytechnic teachers or faculty?",
+              "answer_en": "21.",
+              "id": "09-01-04",
+              "kind": "recall"
+            },
+            {
+              "question": "कौशल विकास मंत्रालय से कितने प्रशिक्षक चुने गए?",
+              "answer": "13।",
+              "question_en": "How many were skill trainers?",
+              "answer_en": "13.",
+              "id": "09-01-05",
+              "kind": "recall"
+            },
+            {
+              "question": "क्या 82 की संख्या केवल स्कूल शिक्षकों की है?",
+              "answer": "नहीं; यह तीनों श्रेणियों का कुल है।",
+              "question_en": "Does 82 mean school teachers alone?",
+              "answer_en": "No: it is the combined total.",
+              "id": "09-01-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "National Teachers Awards",
+          "id": "09-01",
+          "note_en": "The total includes school teachers, higher-education faculty and skill trainers.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "अंतरराष्ट्रीय साक्षरता दिवस और उल्लास",
+          "note": "साक्षरता केवल पढ़ने-लिखने तक सीमित नहीं: समझ, उपयोग, वित्तीय और डिजिटल साक्षरता भी महत्वपूर्ण हैं।",
+          "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2308010",
+          "questions": [
+            {
+              "question": "अंतरराष्ट्रीय साक्षरता दिवस कब मनाया जाता है?",
+              "answer": "8 सितंबर।",
+              "question_en": "When is International Literacy Day?",
+              "answer_en": "8 September.",
+              "id": "09-02-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 की थीम क्या थी?",
+              "answer": "Literacy for people, the planet and prosperity।",
+              "question_en": "What was the 2026 theme?",
+              "answer_en": "Literacy for people, the planet and prosperity.",
+              "id": "09-02-02",
+              "kind": "recall"
+            },
+            {
+              "question": "भारत का राष्ट्रीय स्तर का समारोह किस शहर में हुआ?",
+              "answer": "नई दिल्ली।",
+              "question_en": "Where was India’s national celebration held?",
+              "answer_en": "New Delhi.",
+              "id": "09-02-03",
+              "kind": "recall"
+            },
+            {
+              "question": "सितंबर 2026 का साक्षरता पखवाड़ा किन तारीखों में था?",
+              "answer": "1–14 सितंबर।",
+              "question_en": "When was Literacy Fortnight observed?",
+              "answer_en": "1–14 September 2026.",
+              "id": "09-02-04",
+              "kind": "recall"
+            },
+            {
+              "question": "विज्ञप्ति में त्रिपुरा की कितनी साक्षरता दर बताई गई?",
+              "answer": "95.6 प्रतिशत।",
+              "question_en": "What Tripura literacy rate was reported at the event?",
+              "answer_en": "95.6%.",
+              "id": "09-02-05",
+              "kind": "recall"
+            },
+            {
+              "question": "उल्लास कार्यक्रम का संबंधित व्यापक लक्ष्य क्या है?",
+              "answer": "बुनियादी साक्षरता और आजीवन सीखने के अवसर बढ़ाना।",
+              "question_en": "What broad goal does ULLAS support?",
+              "answer_en": "Foundational literacy and lifelong-learning opportunities.",
+              "id": "09-02-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "International Literacy Day and ULLAS",
+          "id": "09-02",
+          "note_en": "The Tripura figure is the rate reported at this event, not a national literacy rate.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "विश्व ओज़ोन दिवस",
+          "note": "ओज़ोन संरक्षण और जलवायु कार्रवाई जुड़े विषय हैं, लेकिन ओज़ोन क्षरण और वैश्विक तापवृद्धि एक ही प्रक्रिया नहीं हैं।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310817",
+          "questions": [
+            {
+              "question": "विश्व ओज़ोन दिवस कब मनाया जाता है?",
+              "answer": "16 सितंबर।",
+              "question_en": "When is it observed?",
+              "answer_en": "16 September.",
+              "id": "09-03-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का राष्ट्रीय समारोह किस शहर में हुआ?",
+              "answer": "मुंबई।",
+              "question_en": "Where was India’s national celebration held?",
+              "answer_en": "Mumbai.",
+              "id": "09-03-02",
+              "kind": "recall"
+            },
+            {
+              "question": "उस समारोह की थीम क्या थी?",
+              "answer": "Global Action for a Cooler Planet।",
+              "question_en": "What was that event’s theme?",
+              "answer_en": "Global Action for a Cooler Planet.",
+              "id": "09-03-03",
+              "kind": "recall"
+            },
+            {
+              "question": "उस दिन भारत का कौन-सा नेट-ज़ीरो डिजिटल मंच शुरू हुआ?",
+              "answer": "India’s Net Zero Portal।",
+              "question_en": "Which net-zero platform was launched?",
+              "answer_en": "India’s Net Zero Portal.",
+              "id": "09-03-04",
+              "kind": "recall"
+            },
+            {
+              "question": "इसके साथ किस राष्ट्रीय जलवायु योजना का डैशबोर्ड शुरू हुआ?",
+              "answer": "National Action Plan on Climate Change (NAPCC)।",
+              "question_en": "Which climate-plan dashboard was also launched?",
+              "answer_en": "National Action Plan on Climate Change, NAPCC.",
+              "id": "09-03-05",
+              "kind": "recall"
+            },
+            {
+              "question": "ओज़ोन परत संरक्षण से जुड़ा प्रमुख प्रोटोकॉल कौन-सा है?",
+              "answer": "मॉन्ट्रियल प्रोटोकॉल।",
+              "question_en": "Which protocol is central to ozone protection?",
+              "answer_en": "Montreal Protocol.",
+              "id": "09-03-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "World Ozone Day",
+          "id": "09-03",
+          "note_en": "The theme here belongs to India’s national celebration. Learn the two launched platforms separately.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "ब्रिक्स नई दिल्ली घोषणापत्र",
+          "note": "इस समूह में शिखर सम्मेलन के शहर, संस्करण और सहयोग-स्तंभों पर प्रश्न हैं।",
+          "source": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2309505&lang=1&reg=3",
+          "questions": [
+            {
+              "question": "सितंबर 2026 का ब्रिक्स शिखर सम्मेलन किस शहर में हुआ?",
+              "answer": "नई दिल्ली।",
+              "question_en": "Which city hosted the September summit?",
+              "answer_en": "New Delhi.",
+              "id": "09-04-01",
+              "kind": "recall"
+            },
+            {
+              "question": "यह ब्रिक्स शिखर सम्मेलन का कौन-सा संस्करण था?",
+              "answer": "18वाँ।",
+              "question_en": "Which summit edition was it?",
+              "answer_en": "18th.",
+              "id": "09-04-02",
+              "kind": "recall"
+            },
+            {
+              "question": "घोषणापत्र में सम्मेलन की कौन-सी तारीखें दी गई हैं?",
+              "answer": "12–13 सितंबर 2026।",
+              "question_en": "What dates appear in the declaration?",
+              "answer_en": "12–13 September 2026.",
+              "id": "09-04-03",
+              "kind": "recall"
+            },
+            {
+              "question": "सम्मेलन की थीम क्या थी?",
+              "answer": "Building for Resilience, Innovation, Cooperation and Sustainability।",
+              "question_en": "What was its theme?",
+              "answer_en": "Building for Resilience, Innovation, Cooperation and Sustainability.",
+              "id": "09-04-04",
+              "kind": "recall"
+            },
+            {
+              "question": "आर्थिक-वित्तीय और राजनीतिक-सुरक्षा के अलावा तीसरा सहयोग-स्तंभ क्या था?",
+              "answer": "सांस्कृतिक और लोगों के बीच सहयोग।",
+              "question_en": "Besides political/security and economic/financial, what was the third pillar?",
+              "answer_en": "Cultural and people-to-people cooperation.",
+              "id": "09-04-05",
+              "kind": "recall"
+            },
+            {
+              "question": "ब्रिक्स घोषणापत्र में निर्णय-सहयोग का कौन-सा सिद्धांत बताया गया?",
+              "answer": "सहमति (Consensus)।",
+              "question_en": "Which decision-making principle was reaffirmed in the declaration?",
+              "answer_en": "Consensus.",
+              "id": "09-04-06",
+              "kind": "recall"
+            }
+          ],
+          "title_en": "BRICS New Delhi Declaration",
+          "id": "09-04",
+          "note_en": "The declaration states the dates, theme, three pillars and consensus principle.",
+          "reviewed_on": "2026-10-15"
+        },
+        {
+          "title": "हिंदी दिवस और राजभाषा सम्मेलन",
+          "note": "हिंदी को संघ की राजभाषा कहना सही है; इस प्रसंग में “भारत की राष्ट्रभाषा” कहना सही विकल्प नहीं है।",
+          "source": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310119&lang=1&reg=6",
+          "questions": [
+            {
+              "question": "हिंदी दिवस कब मनाया जाता है?",
+              "answer": "14 सितंबर।",
+              "question_en": "When is Hindi Diwas?",
+              "answer_en": "14 September.",
+              "id": "09-05-01",
+              "kind": "recall"
+            },
+            {
+              "question": "2026 का अखिल भारतीय राजभाषा सम्मेलन किस शहर में हुआ?",
+              "answer": "मुंबई।",
+              "question_en": "Where was the 2026 conference held?",
+              "answer_en": "Mumbai.",
+              "id": "09-05-02",
+              "kind": "recall"
+            },
+            {
+              "question": "यह सम्मेलन का कौन-सा संस्करण था?",
+              "answer": "छठा।",
+              "question_en": "Which conference edition was it?",
+              "answer_en": "Sixth.",
+              "id": "09-05-03",
+              "kind": "recall"
+            },
+            {
+              "question": "कार्यक्रम के मुख्य अतिथि कौन थे?",
+              "answer": "अमित शाह।",
+              "question_en": "Who was the chief guest?",
+              "answer_en": "Amit Shah.",
+              "id": "09-05-04",
+              "kind": "recall"
+            },
+            {
+              "question": "संविधान सभा ने हिंदी को संघ की राजभाषा स्वीकार करने का निर्णय कब लिया?",
+              "answer": "14 सितंबर 1949।",
+              "question_en": "When was Hindi adopted as the Union’s official language by the Constituent Assembly?",
+              "answer_en": "14 September 1949.",
+              "id": "09-05-05",
+              "kind": "background"
+            },
+            {
+              "question": "इस संदर्भ में हिंदी की सही संवैधानिक पहचान क्या है?",
+              "answer": "संघ की राजभाषा।",
+              "question_en": "What is the correct designation in this context?",
+              "answer_en": "Official language of the Union; not India’s national language.",
+              "id": "09-05-06",
+              "kind": "background"
+            }
+          ],
+          "title_en": "Hindi Diwas and official-language conference",
+          "id": "09-05",
+          "note_en": "Hindi is the Union’s official language in this context. Avoid calling it India’s national language.",
+          "reviewed_on": "2026-10-15"
+        }
+      ],
+      "id": "09",
+      "hi": "सितंबर",
+      "en": "September"
+    }
+  ],
+  "reviewed_on": "2026-10-15",
+  "review_method": "Official-source editorial cross-check; selected coverage; not independently expert-certified."
+}
